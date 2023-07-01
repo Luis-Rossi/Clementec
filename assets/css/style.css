@@ -102,12 +102,17 @@ section {
     left: 0;
     width: 100%;
     padding: 2rem 9%;
-    background: var(--bgColorLight);
+    background: rgba(255, 255, 255, 0.4);
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
     display: flex;
     justify-content: space-between;
     align-items: center;
     z-index: 100;
+    transition: .3s;
+}
+
+.header.sticky {
+    background: var(--bgColorLight)
 }
 
 .logo {
