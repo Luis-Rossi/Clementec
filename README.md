@@ -1,4 +1,6 @@
-<img src="./components/img/logo.jpg" alt="Clementec Logo" width="300px" />
+<div align="center">
+  <img src="./components/img/logo.jpg" alt="Clementec Logo" width="300px" />
+</div>
 
 ## 👉 CLEMENTEC SISTEMAS DE SEGURANÇA - DESENVOLVIMENTO DO WEBSITE
 
@@ -13,7 +15,7 @@ Este website está sendo desenvolvido para a empresa **CLEMENTEC SISTEMAS DE SEG
 
 - **SERVIÇOS:** Página com imagens nos ***cards*** que quando viram mostram informações sobre os serviços realizados. Com botão para orçamento ao final das descrições;
 
-- **CALL-TO-ACTION** Um pequeno seguimento ***call-to-action*** para a parte de orçamentos;
+- **CALL-TO-ACTION:** Um pequeno seguimento ***call-to-action*** para a parte de orçamentos;
 
 - **CONTATO:** Página para entrar em contato, com formulário completo.
 
